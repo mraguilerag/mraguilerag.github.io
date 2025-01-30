@@ -1,0 +1,33 @@
+.fotoportada{
+    background-image: url(../img/foto\ portada.webp);
+    background-size:cover;
+    background-position: 20% 90%;
+    height: 18rem;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke: 0.3px black;
+}
+.fotoportada h1{
+        margin: 0%;
+        padding-top: 80px;
+       padding-left: 150px;
+}
+.fotoportada p{
+    margin: 0%;
+   padding-left: 144px;
+   font-size: 35px;
+   text-decoration: underline;
+   text-decoration-color: white;
+}
+.boton{
+    padding-left: 179px;
+}
+#portada {
+    background-image: url("../img/foto\ portada.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+  #Educacion{
+    background-color: rgb(24, 23, 23);
+  }
