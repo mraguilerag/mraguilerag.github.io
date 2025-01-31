@@ -24,10 +24,24 @@
   #Educacion {
     background-color:  rgb(219, 151, 151) ;
   }
-  
+
   #Proyects {
     background-color:  rgb(219, 151, 151) ;
   }
   .end{
     background-color:  rgb(219, 151, 151) ;
   }
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
+
+.card {
+  height: auto;
+  width: 100%; 
+  margin-top: 50px;
+  margin-right: 20px;
+}
+.row {
+  
+}
