@@ -3,42 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
-.navbar{
+.navegacion{
   background-color: rgb(219, 151, 151);
 }
-.primer.boton{
-  color: rgb(219, 151, 151);
+.contenido1 {
+  display: flex;  
+  justify-content: space-between;
+  gap: 2rem; 
 }
-.fotoportada{
-    background-color:white;
-    background-size:cover;
-    height: 18rem;
-    font-size: 30px;
-    color: black;
+.texto {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
 }
-.fotoportada h1{
-        margin: 0%;
-        padding-top: 80px;
-       padding-left: 150px;
+.contenido2 img {
+  width: 450px;
+  height: auto;  
+  border-radius: 50%; /* Si quieres que la imagen sea circular */
 }
-.fotoportada p{
-    margin: 0%;
-   padding-left: 150px;
-   font-size: 35px;
-}
-.boton{
-    padding-left: 250px;
-}
-
-  #Educacion{
-    background-color: rgb(24, 23, 23);
-  }
-  #proyectos{
-    background-color: rgb(24, 23, 23);
-  }
-  #sobre-mi {
-    background-color:rgb(230, 208, 208);
-  }
   #Habilidades {
-    background-color: rgb(230, 208, 208) ;
+    background-color:  rgb(219, 151, 151) ;
   }
