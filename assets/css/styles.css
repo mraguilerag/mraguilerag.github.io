@@ -24,10 +24,7 @@
   #Educacion {
     background-color:  rgb(219, 151, 151) ;
   }
-  .listas-container {
-    display: flex;
-    gap: 20px; /* Ajusta el espacio entre las listas */
-  }
+  
   #Proyects {
     background-color:  rgb(219, 151, 151) ;
   }
